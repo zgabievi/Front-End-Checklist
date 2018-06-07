@@ -46,7 +46,7 @@
 
 ## Head
 
-> **Примечание:** Можно посмотреть [список всего](https://github.com/joshbuchea/HEAD), что может быть в `<head>` HTML документа.
+> **შენიშვნა:** თავმოყრილია [ყველაფერი](https://github.com/joshbuchea/HEAD), რაც `<head>` ტეგებს შორისაა მოქცეული.
 
 ### Meta ტეგები
 
@@ -286,7 +286,7 @@
 
 ---
 
-## Web-шрифты
+## Web-ფონტები
 
 > **Примечание:** Использование web-шрифтов может вызвать мерцание или исчезновение текста (FOUT - Flash of Unstyled Text, FOIT - Flash of Invisible Text). Так что убедитесь, что задан резервный шрифт, либо используйте загрузчик шрифтов чтобы держать ситуацию под контролем.
 > * 📖 [Google Technical considerations about webfonts](https://developers.google.com/fonts/docs/technical_considerations)
@@ -381,7 +381,7 @@
 
 ---
 
-## Картинки
+## სურათები
 
 > **Примечание:** Для полного понимания оптимизации картинок прочтите бесплатную электронную книгу **[Essential Image Optimization](https://images.guide/)** от Addy Osmani.
 
@@ -460,7 +460,7 @@
 
 ---
 
-## Безопасность
+## უსაფრთხოება
 
 ### Просканируйте и проверьте ваш веб-сайт
 
@@ -511,7 +511,7 @@
 
 ---
 
-## Производительность
+## წარმადობა
 
 ### Лучшие практики
 
@@ -578,7 +578,7 @@
 
 ---
 
-## Доступность
+## ხელმისაწვდომობა
 
 > **Примечание:** Ознакомьтесь с плейлистом [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) 📹
 
@@ -674,24 +674,6 @@
 
 ---
 
-## Перевод
-
-Front-End Checklist также доступен на других языках. Спасибо всем переводчикам за потрясающую работу!
-
-* 🇯🇵 Японский: [miya0001/Front-End-Checklist](https://github.com/miya0001/Front-End-Checklist)
-* 🇪🇸 Испанский: [eoasakura/Front-End-Checklist-ES](https://github.com/eoasakura/Front-End-Checklist-ES)
-* 🇨🇳 Китайский: [JohnsenZhou/Front-End-Checklist](https://github.com/JohnsenZhou/Front-End-Checklist)
-* 🇰🇷 Корейский: [kesuskim/Front-End-Checklist](https://github.com/kesuskim/Front-End-Checklist)
-* 🇧🇷 Португальский: [jcezarms/Front-End-Checklist](https://github.com/jcezarms/Front-End-Checklist)
-* 🇻🇳 Вьетнамский: [euclid1990/Front-End-Checklist](https://github.com/euclid1990/Front-End-Checklist)
-* 🇹🇼 Традиционный китайский: [EngineLin/Front-End-Checklist](https://github.com/EngineLin/Front-End-Checklist)
-* 🇫🇷 Французский: [ynizon/Front-End-Checklist](https://github.com/ynizon/Front-End-Checklist)
-* 🇷🇺 Русский: [ungear/Front-End-Checklist](https://github.com/ungear/Front-End-Checklist)
-* 🇹🇷 Турецкий: [eraycetinay/Front-End-Checklist](https://github.com/eraycetinay/Front-End-Checklist)
-* 🇩🇪 Немецкий: [xfuture603/Front-End-Checklist](https://github.com/xFuture603/Front-End-Checklist)
-
----
-
 ## Front-End Checklist Badge
 
 Вставьте этот бейдж в ваш файл README, если хотите показать, что следуете этому чеклисту!
@@ -730,44 +712,24 @@ Front-End Checklist также доступен на других языках. 
 * [Facebook](https://www.facebook.com/frontendchecklist/)
 * [Twitter](https://twitter.com/thedaviddias)
 
-## Автор
+## ავტორი
 
 **[David Dias](https://github.com/thedaviddias)**
 
-## Помощники
+## დახმარება
 
 Проект существует благодаря помощи сообщества. [[Contribute]](CONTRIBUTING.md).
 <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors"><img src="https://opencollective.com/front-end-checklist/contributors.svg?width=890" /></a>
-## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/front-end-checklist#backer)]
-
-<a href="https://opencollective.com/front-end-checklist#backers" target="_blank"><img src="https://opencollective.com/front-end-checklist/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/front-end-checklist#sponsor)]
-
-<a href="https://opencollective.com/front-end-checklist/sponsor/0/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/1/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/2/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/3/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/4/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/5/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/6/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/7/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/8/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/9/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/9/avatar.svg"></a>
-
-## Лицензия
+## ლიცენზია
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-**[⬆ наверх](#Содержание)**
 
 [low_img]: https://front-end-checklist.now.sh/low.svg
 [medium_img]: https://front-end-checklist.now.sh/medium.svg
 [high_img]: https://front-end-checklist.now.sh/high.svg
+
+
+**[⬆ наверх](#Содержание)**
 
 Syncronized with commit 07b7ba6
