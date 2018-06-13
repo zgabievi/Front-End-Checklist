@@ -1,3 +1,5 @@
+## WIP - მუშავდება
+
 [![Front-End Checklist Logo](https://github.com/thedaviddias/Front-End-Checklist/blob/master/src/img/banners/front-end-checklist-banner-light.jpg?raw=true)](https://frontendchecklist.io)
 
 <h2 align="center"><a href="http://frontendchecklist.io">Front-End Checklist</a></h2>
