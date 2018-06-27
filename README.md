@@ -236,7 +236,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 > * 📖 [Getting started with cards — Twitter Developers](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 > * 🛠 Test your page with the [Twitter card validator](https://cards-dev.twitter.com/validator)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -276,7 +276,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -298,7 +298,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 > * 🛠 [Typekit Web Font Loader](https://github.com/typekit/webfontloader)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -372,7 +372,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 > * 📖 [Building RTL-Aware Web Apps & Websites: Part 1 - Mozilla Hacks](https://hacks.mozilla.org/2015/09/building-rtl-aware-web-apps-and-websites-part-1/)
 > * 📖 [Building RTL-Aware Web Apps & Websites: Part 2 - Mozilla Hacks](https://hacks.mozilla.org/2015/10/building-rtl-aware-web-apps-websites-part-2/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -406,7 +406,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 * [ ] **Lazy loading:** ![Medium][medium_img] Images are lazyloaded (A noscript fallback is always provided).
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -451,7 +451,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 > * 📖 [ESLint - The pluggable linting utility for JavaScript and JSX](https://eslint.org/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -502,7 +502,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 > * 📖 [CSP Cheat Sheet - OWASP](https://www.owasp.org/index.php/Content_Security_Policy_Cheat_Sheet)
 > * 📖 [Content Security Policy Reference](https://content-security-policy.com/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -572,7 +572,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 > * 🛠 [WebPagetest - Website Performance and Optimization Test](https://www.webpagetest.org/)
 > * 🛠 [GTmetrix - Website speed and performance optimization](https://gtmetrix.com/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -621,7 +621,7 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 
 > * 📹 [Managing Focus - A11ycasts #22](https://www.youtube.com/watch?v=srLRSQg6Jgg&index=5&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
@@ -670,13 +670,13 @@ Minimum required xml markup for the `browserconfig.xml` file is as follows:
 <link rel="next" href="https://example.com/?page=3">
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
-## Front-End Checklist Badge
+## Front-End Checklist ნიშანი
 
-If you want to show you are following the rules of the Front-End Checklist, put this badge on your README file!
+თუ გინდათ აჩვენოთ რომ თქვენ მიყვებით Front-End Checklist-ის მითითებებს, ჩაწერეთ ეს კოდი README ფაილში!
 
 ➔ [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 
@@ -684,29 +684,29 @@ If you want to show you are following the rules of the Front-End Checklist, put 
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
 ---
 
-## Содействие
+## ხელშეწყობა
 
-**Создайте issue или pull request чтобы предложить изменение или дополнение**
+**შექმენით issue ან pull request რათა შემოგვთაზავოთ ცვლილება ან დამატება**
 
-### Руководство
+### გზამკვლევი
 
-Репозиторий **Front-End Checklist** состоит из двух веток:
+**Front-End Checklist** repository შედგება 2 branch-სგან:
 
 #### 1. `master`
 
-Эта ветка состоит из файла `README.md`, который автоматически отображается на сайте [Front-End Checklist](http://frontendchecklist.com/).
+ეს branch-ი შედგება `README.md` ფაილისგან, რომელიც ავტომატურად აისახება საიტზე [Front-End Checklist](http://frontendchecklist.com/).
 
 #### 2. `develop`
 
-Эта ветка будет использоваться для внесения значительных изменений в структуру или контент. Для устранения мелких ошибок и создания новых элементов предпочтительно использовать ветку master.
+ეს branch-ი გამოყენებული იქნება მნიშვნელოვანი სტრუქტურული ცვლილებების დროს. მცირე შეცდომების და ახალი სექციების ჩამატებისთვის გამოიყენეთ `master` branch-ი.
 
-## Поддержка
+## მხარდაჭერა
 
-Если у вас есть вопросы или пожелания, без колебаний пишите в Gitter или Twitter:
+თუ გაქვთ შეკითხვა ან რჩევა, არ მოგერიდოთ გამოიყენოთ Gitter ან Twitter:
 
 * [Chat on Gitter](https://gitter.im/Front-End-Checklist/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 * [Facebook](https://www.facebook.com/frontendchecklist/)
@@ -716,9 +716,9 @@ If you want to show you are following the rules of the Front-End Checklist, put 
 
 **[David Dias](https://github.com/thedaviddias)**
 
-## დახმარება
+## ხელშემწყობები
 
-Проект существует благодаря помощи сообщества. [[Contribute]](CONTRIBUTING.md).
+პროექტი არსებობს თქვენი ხელშეწყობით და დახმარებით. [[Contribute]](CONTRIBUTING.md).
 <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors"><img src="https://opencollective.com/front-end-checklist/contributors.svg?width=890" /></a>
 
 ## ლიცენზია
@@ -730,6 +730,6 @@ If you want to show you are following the rules of the Front-End Checklist, put 
 [high_img]: https://front-end-checklist.now.sh/high.svg
 
 
-**[⬆ наверх](#Содержание)**
+**[⬆ უკან დაბრუნება](#სარჩევი)**
 
-Syncronized with commit 07b7ba6
+სინქრონიზებულია commit-თან 07b7ba6
